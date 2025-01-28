@@ -38,9 +38,7 @@ class EnoughBro69:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enoughsantosh&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=enoughsantosh&theme=dracula" alt="GitHub Trophies" />
@@ -71,12 +69,6 @@ DevOps       ███░░░░░░░░░░░░░░   15%
 ```
 
 
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enoughsantosh&theme=dracula)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enoughsantosh&color=blueviolet" alt="Profile Views" />
