@@ -10,8 +10,10 @@
 
 ## Projects Links
 
-  <div>
-    <img src='https://linktr.ee/enoughbro' onclick="window.open('https://linktr.ee/enoughbro', '_blank')" aria-label="Open Linktree" />
+  <div align="center">
+    <a href="https://linktr.ee/enoughbro" target="_blank" aria-label="Open Linktree">
+    <img src="https://linktr.ee/enoughbro" alt="Open Linktree" />
+</a>
   </div>
 
 
