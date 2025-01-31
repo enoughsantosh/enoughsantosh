@@ -10,9 +10,9 @@
 
 ## Projects Links
 
-<div>
-<iframe src="https://linktr.ee/enoughbro" width="100%" height="600px" style="border:none;"></iframe>
-</div>
+  <div>
+    <img src='https://linktr.ee/enoughbro' onclick="window.open('https://linktr.ee/enoughbro', '_blank')" aria-label="Open Linktree" />
+  </div>
 
 
 ## 🛠️ Tech Stack
