@@ -12,7 +12,7 @@
 
   <div align="center">
     <a href="https://linktr.ee/enoughbro" target="_blank" aria-label="Open Linktree">
-    <img src="https://linktr.ee/enoughbro" alt="Open Linktree" />
+    <img src="https://linktr.ee/og/image/enoughbro.jpg" alt="Open Linktree" />
 </a>
   </div>
 
